@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaRazorPages", "PizzaRazorPages\PizzaRazorPages.csproj", "{0053ADF0-9364-4425-AEA4-E705D8F9EED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0053ADF0-9364-4425-AEA4-E705D8F9EED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0053ADF0-9364-4425-AEA4-E705D8F9EED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0053ADF0-9364-4425-AEA4-E705D8F9EED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0053ADF0-9364-4425-AEA4-E705D8F9EED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7BFD86-DB7C-49DF-94DB-FF19BCC01FDC}
+	EndGlobalSection
+EndGlobal
